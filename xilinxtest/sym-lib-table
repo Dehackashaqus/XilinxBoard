@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name xilinx-artix7)(type Legacy)(uri C:/Users/daw0043/Downloads/kicad-library-master/library/xilinx-artix7.lib)(options "")(descr ""))
+)
