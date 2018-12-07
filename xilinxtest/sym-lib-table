@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name xilinx-artix7)(type Legacy)(uri C:/Users/daw0043/Downloads/kicad-library-master/library/xilinx-artix7.lib)(options "")(descr ""))
+  (lib (name FPGA_Power_Project)(type Legacy)(uri C:/Users/daw0043/Documents/GitHub/XilinxBoard/FPGA_Power_Project.lib)(options "")(descr ""))
 )
